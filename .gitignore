@@ -1,0 +1,7 @@
+logs/*
+!logs/logs.txt
+
+dags/__pycache__
+
+DB/*
+!DB/structure.sql
